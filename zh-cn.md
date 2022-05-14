@@ -12,4 +12,4 @@
 
 默认清晰度：640 x 480 实际上也没法子更改
 
-小白评论区：[这里](https://stevetaizhou.github.io/tools/bingdownl.html)
+提建议请去[这里](https://github.com/SteveTaizhou/steve-bingdownload/issues/new/choose)发表issue。对于小白，请去[小白评论区](https://stevetaizhou.github.io/tools/bingdownl.html)。
